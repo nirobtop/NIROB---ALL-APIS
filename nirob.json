@@ -1,14 +1,7 @@
-{ 
-  
-  "fbdl":     "https://aldl-fb.vercel.app/api/nirob?url=",
-  "ytdl":     "",
-  "imgur":     "",
-  "Instadl":   "https://insta-dl-kappa.vercel.app/api/nirob?url=",
-  "YouTube":   "",
-  "ytmp3":     "",
-  "imagine":   "",
-  "upscale":   "",
-  "prompt":    "",
-  "porndl":    "",
-  "tikdl":     "": ""
+{
+  "facebook": "https://aldl-fb.vercel.app/api/nirob?url=",
+  "instagram": "https://insta-dl-kappa.vercel.app/api/nirob?url=",
+  "youtube": "",
+  "tiktok": "",
+  "pinterest": ""
 }
